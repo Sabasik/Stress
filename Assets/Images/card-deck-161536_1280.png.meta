@@ -126,7 +126,7 @@ TextureImporter:
       name: ristiA
       rect:
         serializedVersion: 2
-        x: 3
+        x: 0
         y: 613
         width: 98
         height: 153
@@ -147,7 +147,7 @@ TextureImporter:
       name: risti2
       rect:
         serializedVersion: 2
-        x: 101
+        x: 99
         y: 613
         width: 98
         height: 153
@@ -168,8 +168,8 @@ TextureImporter:
       name: risti3
       rect:
         serializedVersion: 2
-        x: 199
-        y: 613
+        x: 197
+        y: 612
         width: 98
         height: 153
       alignment: 0
@@ -189,10 +189,10 @@ TextureImporter:
       name: risti4
       rect:
         serializedVersion: 2
-        x: 297
-        y: 610.4
-        width: 98.23077
-        height: 152.6
+        x: 296
+        y: 613
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,8 +210,8 @@ TextureImporter:
       name: risti5
       rect:
         serializedVersion: 2
-        x: 395
-        y: 613
+        x: 394
+        y: 612
         width: 98
         height: 153
       alignment: 0
@@ -232,7 +232,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 493
-        y: 613
+        y: 612
         width: 98
         height: 153
       alignment: 0
@@ -253,7 +253,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 591
-        y: 613
+        y: 612
         width: 98
         height: 153
       alignment: 0
@@ -294,10 +294,10 @@ TextureImporter:
       name: risti9
       rect:
         serializedVersion: 2
-        x: 787
-        y: 610.4
-        width: 98.23077
-        height: 152.6
+        x: 788
+        y: 613
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -315,7 +315,7 @@ TextureImporter:
       name: risti10
       rect:
         serializedVersion: 2
-        x: 885
+        x: 887
         y: 613
         width: 98
         height: 153
@@ -336,10 +336,10 @@ TextureImporter:
       name: ristiJ
       rect:
         serializedVersion: 2
-        x: 983
-        y: 610.4
-        width: 98.23077
-        height: 152.6
+        x: 985
+        y: 613
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -357,10 +357,10 @@ TextureImporter:
       name: ristiQ
       rect:
         serializedVersion: 2
-        x: 1081
-        y: 610.4
-        width: 98.23077
-        height: 152.6
+        x: 1084
+        y: 613
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -378,7 +378,7 @@ TextureImporter:
       name: ristiK
       rect:
         serializedVersion: 2
-        x: 1181
+        x: 1182
         y: 613
         width: 98
         height: 153
@@ -399,10 +399,10 @@ TextureImporter:
       name: ruutuA
       rect:
         serializedVersion: 2
-        x: 3
-        y: 458.4
-        width: 98.23077
-        height: 152.6
+        x: 0
+        y: 460
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -420,10 +420,10 @@ TextureImporter:
       name: ruutu2
       rect:
         serializedVersion: 2
-        x: 101
-        y: 458.4
-        width: 98.23077
-        height: 152.6
+        x: 99
+        y: 460
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -441,10 +441,10 @@ TextureImporter:
       name: ruutu3
       rect:
         serializedVersion: 2
-        x: 199
-        y: 458.4
-        width: 98.23077
-        height: 152.6
+        x: 197
+        y: 460
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -462,10 +462,10 @@ TextureImporter:
       name: ruutu4
       rect:
         serializedVersion: 2
-        x: 297
-        y: 458.4
-        width: 98.23077
-        height: 152.6
+        x: 296
+        y: 460
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -483,8 +483,8 @@ TextureImporter:
       name: ruutu5
       rect:
         serializedVersion: 2
-        x: 395
-        y: 461
+        x: 394
+        y: 460
         width: 98
         height: 153
       alignment: 0
@@ -505,7 +505,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 493
-        y: 461
+        y: 460
         width: 98
         height: 153
       alignment: 0
@@ -525,10 +525,10 @@ TextureImporter:
       name: ruutu7
       rect:
         serializedVersion: 2
-        x: 591
-        y: 458.4
-        width: 98.23077
-        height: 152.6
+        x: 592
+        y: 460
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -546,10 +546,10 @@ TextureImporter:
       name: ruutu8
       rect:
         serializedVersion: 2
-        x: 689
-        y: 458.4
-        width: 98.23077
-        height: 152.6
+        x: 690
+        y: 460
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -567,10 +567,10 @@ TextureImporter:
       name: ruutu9
       rect:
         serializedVersion: 2
-        x: 787
-        y: 458.4
-        width: 98.23077
-        height: 152.6
+        x: 788
+        y: 460
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -588,10 +588,10 @@ TextureImporter:
       name: ruutu10
       rect:
         serializedVersion: 2
-        x: 885
-        y: 458.4
-        width: 98.23077
-        height: 152.6
+        x: 886
+        y: 460
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -610,9 +610,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 983
-        y: 458.4
+        y: 459.2
         width: 98.23077
-        height: 152.6
+        height: 152.8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -630,10 +630,10 @@ TextureImporter:
       name: ruutuQ
       rect:
         serializedVersion: 2
-        x: 1081
-        y: 458.4
-        width: 98.23077
-        height: 152.6
+        x: 1083
+        y: 459
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -651,10 +651,10 @@ TextureImporter:
       name: ruutuK
       rect:
         serializedVersion: 2
-        x: 1179
-        y: 458.4
-        width: 98.23077
-        height: 152.6
+        x: 1182
+        y: 460
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -672,8 +672,8 @@ TextureImporter:
       name: artuA
       rect:
         serializedVersion: 2
-        x: 3
-        y: 309
+        x: 0
+        y: 306
         width: 98
         height: 153
       alignment: 0
@@ -693,8 +693,8 @@ TextureImporter:
       name: artu2
       rect:
         serializedVersion: 2
-        x: 101
-        y: 309
+        x: 98
+        y: 306
         width: 98
         height: 153
       alignment: 0
@@ -714,10 +714,10 @@ TextureImporter:
       name: artu3
       rect:
         serializedVersion: 2
-        x: 199
-        y: 306.4
-        width: 98.23077
-        height: 152.6
+        x: 198
+        y: 307
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -735,10 +735,10 @@ TextureImporter:
       name: artu4
       rect:
         serializedVersion: 2
-        x: 297
-        y: 306.4
-        width: 98.23077
-        height: 152.6
+        x: 296
+        y: 307
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -756,10 +756,10 @@ TextureImporter:
       name: artu5
       rect:
         serializedVersion: 2
-        x: 395
-        y: 306.4
-        width: 98.23077
-        height: 152.6
+        x: 393
+        y: 307
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -778,9 +778,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 493
-        y: 306.4
-        width: 98.23077
-        height: 152.6
+        y: 308
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -799,7 +799,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 591
-        y: 309
+        y: 308
         width: 98
         height: 153
       alignment: 0
@@ -820,9 +820,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 689
-        y: 309
-        width: 98
-        height: 153
+        y: 307.2
+        width: 98.23077
+        height: 152.8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -840,10 +840,10 @@ TextureImporter:
       name: artu9
       rect:
         serializedVersion: 2
-        x: 787
-        y: 306.4
-        width: 98.23077
-        height: 152.6
+        x: 789
+        y: 307
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -861,8 +861,8 @@ TextureImporter:
       name: artu10
       rect:
         serializedVersion: 2
-        x: 885
-        y: 309
+        x: 886
+        y: 307
         width: 98
         height: 153
       alignment: 0
@@ -882,10 +882,10 @@ TextureImporter:
       name: artuJ
       rect:
         serializedVersion: 2
-        x: 983
-        y: 306.4
-        width: 98.23077
-        height: 152.6
+        x: 985
+        y: 307
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -904,9 +904,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1081
-        y: 306.4
+        y: 307.2
         width: 98.23077
-        height: 152.6
+        height: 152.8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -925,9 +925,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1179
-        y: 306.4
+        y: 307.2
         width: 98.23077
-        height: 152.6
+        height: 152.8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -945,10 +945,10 @@ TextureImporter:
       name: potiA
       rect:
         serializedVersion: 2
-        x: 3
-        y: 154.4
-        width: 98.23077
-        height: 152.6
+        x: 0
+        y: 153
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -966,10 +966,10 @@ TextureImporter:
       name: poti2
       rect:
         serializedVersion: 2
-        x: 101
-        y: 154.4
-        width: 98.23077
-        height: 152.6
+        x: 100
+        y: 153
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -987,8 +987,8 @@ TextureImporter:
       name: poti3
       rect:
         serializedVersion: 2
-        x: 199
-        y: 157
+        x: 196
+        y: 153
         width: 98
         height: 153
       alignment: 0
@@ -1008,8 +1008,8 @@ TextureImporter:
       name: poti4
       rect:
         serializedVersion: 2
-        x: 297
-        y: 157
+        x: 296
+        y: 152
         width: 98
         height: 153
       alignment: 0
@@ -1030,9 +1030,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 395
-        y: 154.4
-        width: 98.23077
-        height: 152.6
+        y: 153
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1051,9 +1051,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 493
-        y: 154.4
-        width: 98.23077
-        height: 152.6
+        y: 153
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1072,9 +1072,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 591
-        y: 154.4
-        width: 98.23077
-        height: 152.6
+        y: 153
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1093,9 +1093,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 689
-        y: 154.4
-        width: 98.23077
-        height: 152.6
+        y: 153
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1114,9 +1114,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 787
-        y: 154.4
-        width: 98.23077
-        height: 152.6
+        y: 154
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1135,7 +1135,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 885
-        y: 157
+        y: 153
         width: 98
         height: 153
       alignment: 0
@@ -1156,9 +1156,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 983
-        y: 154.4
-        width: 98.23077
-        height: 152.6
+        y: 153
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1176,10 +1176,10 @@ TextureImporter:
       name: potiQ
       rect:
         serializedVersion: 2
-        x: 1081
-        y: 154.4
-        width: 98.23077
-        height: 152.6
+        x: 1082
+        y: 152
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1198,7 +1198,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1179
-        y: 156
+        y: 153
         width: 98
         height: 153
       alignment: 0
@@ -1219,9 +1219,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 3
-        y: 2.399994
+        y: 3.199997
         width: 98.23077
-        height: 152.6
+        height: 152.8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1236,13 +1236,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: card-deck-161536_1280_53
+      name: empty
       rect:
         serializedVersion: 2
-        x: 101
-        y: 2.399994
-        width: 98.23077
-        height: 152.6
+        x: 98
+        y: 0
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1260,8 +1260,8 @@ TextureImporter:
       name: back
       rect:
         serializedVersion: 2
-        x: 199
-        y: 7
+        x: 197
+        y: 0
         width: 98
         height: 153
       alignment: 0
@@ -1282,9 +1282,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 297
-        y: 2.399994
+        y: 3.199997
         width: 98.23077
-        height: 152.6
+        height: 152.8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1303,9 +1303,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 395
-        y: 2.399994
+        y: 3.199997
         width: 98.23077
-        height: 152.6
+        height: 152.8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1324,9 +1324,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 493
-        y: 2.399994
+        y: 3.199997
         width: 98.23077
-        height: 152.6
+        height: 152.8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1345,9 +1345,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 591
-        y: 2.399994
+        y: 3.199997
         width: 98.23077
-        height: 152.6
+        height: 152.8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1366,9 +1366,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 689
-        y: 2.399994
+        y: 3.199997
         width: 98.23077
-        height: 152.6
+        height: 152.8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1387,9 +1387,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 787
-        y: 2.399994
+        y: 3.199997
         width: 98.23077
-        height: 152.6
+        height: 152.8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1408,9 +1408,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 885
-        y: 2.399994
+        y: 3.199997
         width: 98.23077
-        height: 152.6
+        height: 152.8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1429,9 +1429,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 983
-        y: 2.399994
+        y: 3.199997
         width: 98.23077
-        height: 152.6
+        height: 152.8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1450,9 +1450,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1081
-        y: 2.399994
+        y: 3.199997
         width: 98.23077
-        height: 152.6
+        height: 152.8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1471,9 +1471,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1179
-        y: 2.399994
+        y: 3.199997
         width: 98.23077
-        height: 152.6
+        height: 152.8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1513,7 +1513,6 @@ TextureImporter:
       artuQ: -2019934952
       back: 662670109
       card-deck-161536_1280_52: -868508149
-      card-deck-161536_1280_53: 68122265
       card-deck-161536_1280_55: 708138497
       card-deck-161536_1280_56: 1999771658
       card-deck-161536_1280_57: 1470915534
@@ -1524,6 +1523,7 @@ TextureImporter:
       card-deck-161536_1280_62: 346533769
       card-deck-161536_1280_63: 1586498332
       card-deck-161536_1280_64: -1318603145
+      empty: 68122265
       poti10: -2144267041
       poti2: -1224997580
       poti3: -428077523
