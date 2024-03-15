@@ -431,6 +431,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d5c7c7884eee3143bde556d75998265, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cards: []
+  count: {fileID: 1149096051}
+  playerStacks:
+  - {fileID: 1224953450}
+  - {fileID: 845288646}
+  - {fileID: 1123423356}
+  - {fileID: 1815390078}
 --- !u!1 &117556598
 GameObject:
   m_ObjectHideFlags: 0
@@ -2171,7 +2178,7 @@ GameObject:
   - component: {fileID: 657805640}
   - component: {fileID: 657805639}
   m_Layer: 5
-  m_Name: Count
+  m_Name: ComputerCount
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2772,6 +2779,7 @@ GameObject:
   - component: {fileID: 845288645}
   - component: {fileID: 845288644}
   - component: {fileID: 845288643}
+  - component: {fileID: 845288646}
   m_Layer: 5
   m_Name: Player2
   m_TagString: Untagged
@@ -2880,6 +2888,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 845288641}
   m_CullTransparentMesh: 1
+--- !u!114 &845288646
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 845288641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3ddec37c41e2cc4da8808217edf669c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  current: {fileID: 2116339500}
+  empty: {fileID: 2116339500}
 --- !u!1 &845399228
 GameObject:
   m_ObjectHideFlags: 0
@@ -4006,6 +4028,7 @@ GameObject:
   - component: {fileID: 1123423355}
   - component: {fileID: 1123423354}
   - component: {fileID: 1123423353}
+  - component: {fileID: 1123423356}
   m_Layer: 5
   m_Name: Player3
   m_TagString: Untagged
@@ -4114,6 +4137,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1123423351}
   m_CullTransparentMesh: 1
+--- !u!114 &1123423356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1123423351}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3ddec37c41e2cc4da8808217edf669c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  current: {fileID: 2116339500}
+  empty: {fileID: 2116339500}
 --- !u!1 &1149096049
 GameObject:
   m_ObjectHideFlags: 0
@@ -4126,7 +4163,7 @@ GameObject:
   - component: {fileID: 1149096052}
   - component: {fileID: 1149096051}
   m_Layer: 5
-  m_Name: Count
+  m_Name: PlayerCount
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4358,6 +4395,7 @@ GameObject:
   - component: {fileID: 1224953449}
   - component: {fileID: 1224953448}
   - component: {fileID: 1224953447}
+  - component: {fileID: 1224953450}
   m_Layer: 5
   m_Name: Player1
   m_TagString: Untagged
@@ -4466,6 +4504,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1224953445}
   m_CullTransparentMesh: 1
+--- !u!114 &1224953450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1224953445}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3ddec37c41e2cc4da8808217edf669c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  current: {fileID: 2116339500}
+  empty: {fileID: 2116339500}
 --- !u!1 &1232488511
 GameObject:
   m_ObjectHideFlags: 0
@@ -4893,6 +4945,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d3d3af68f2c0a84e992313ca8481ade, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  current: {fileID: 2116339500}
 --- !u!1 &1376017428
 GameObject:
   m_ObjectHideFlags: 0
@@ -5042,6 +5095,7 @@ GameObject:
   - component: {fileID: 1441477542}
   - component: {fileID: 1441477541}
   - component: {fileID: 1441477540}
+  - component: {fileID: 1441477543}
   m_Layer: 5
   m_Name: Computer4
   m_TagString: Untagged
@@ -5150,6 +5204,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1441477538}
   m_CullTransparentMesh: 1
+--- !u!114 &1441477543
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1441477538}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3ddec37c41e2cc4da8808217edf669c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  current: {fileID: 2116339500}
+  empty: {fileID: 2116339500}
 --- !u!1 &1517816438
 GameObject:
   m_ObjectHideFlags: 0
@@ -5358,6 +5426,7 @@ GameObject:
   - component: {fileID: 1585316446}
   - component: {fileID: 1585316445}
   - component: {fileID: 1585316444}
+  - component: {fileID: 1585316447}
   m_Layer: 5
   m_Name: Computer1
   m_TagString: Untagged
@@ -5466,6 +5535,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1585316442}
   m_CullTransparentMesh: 1
+--- !u!114 &1585316447
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585316442}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3ddec37c41e2cc4da8808217edf669c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  current: {fileID: 2116339500}
+  empty: {fileID: 2116339500}
 --- !u!1 &1603858171
 GameObject:
   m_ObjectHideFlags: 0
@@ -6356,6 +6439,7 @@ GameObject:
   - component: {fileID: 1815390077}
   - component: {fileID: 1815390076}
   - component: {fileID: 1815390075}
+  - component: {fileID: 1815390078}
   m_Layer: 5
   m_Name: Player4
   m_TagString: Untagged
@@ -6464,6 +6548,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1815390073}
   m_CullTransparentMesh: 1
+--- !u!114 &1815390078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1815390073}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3ddec37c41e2cc4da8808217edf669c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  current: {fileID: 2116339500}
+  empty: {fileID: 2116339500}
 --- !u!1 &1815737044
 GameObject:
   m_ObjectHideFlags: 0
@@ -6598,6 +6696,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d5c7c7884eee3143bde556d75998265, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cards: []
+  count: {fileID: 657805639}
+  playerStacks:
+  - {fileID: 1585316447}
+  - {fileID: 2104680567}
+  - {fileID: 1900324714}
+  - {fileID: 1441477543}
 --- !u!1 &1822222761
 GameObject:
   m_ObjectHideFlags: 0
@@ -7012,6 +7117,7 @@ GameObject:
   - component: {fileID: 1900324713}
   - component: {fileID: 1900324712}
   - component: {fileID: 1900324711}
+  - component: {fileID: 1900324714}
   m_Layer: 5
   m_Name: Computer3
   m_TagString: Untagged
@@ -7120,6 +7226,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1900324709}
   m_CullTransparentMesh: 1
+--- !u!114 &1900324714
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1900324709}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3ddec37c41e2cc4da8808217edf669c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  current: {fileID: 2116339500}
+  empty: {fileID: 2116339500}
 --- !u!1 &1917859349
 GameObject:
   m_ObjectHideFlags: 0
@@ -7351,6 +7471,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d3d3af68f2c0a84e992313ca8481ade, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  current: {fileID: 2116339500}
 --- !u!1 &1934077677
 GameObject:
   m_ObjectHideFlags: 0
@@ -7657,6 +7778,7 @@ GameObject:
   - component: {fileID: 2104680566}
   - component: {fileID: 2104680565}
   - component: {fileID: 2104680564}
+  - component: {fileID: 2104680567}
   m_Layer: 5
   m_Name: Computer2
   m_TagString: Untagged
@@ -7765,6 +7887,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2104680562}
   m_CullTransparentMesh: 1
+--- !u!114 &2104680567
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2104680562}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3ddec37c41e2cc4da8808217edf669c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  current: {fileID: 2116339500}
+  empty: {fileID: 2116339500}
 --- !u!1 &2111112046
 GameObject:
   m_ObjectHideFlags: 0

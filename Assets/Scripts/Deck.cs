@@ -1,18 +1,16 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class Deck : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public List<Card> cards;
+    public TextMeshProUGUI count;
+    public List<PlayerStack> playerStacks;
 
-    // Update is called once per frame
     void Update()
     {
-        
+        count.text = "" + cards.Count;        
     }
 }
