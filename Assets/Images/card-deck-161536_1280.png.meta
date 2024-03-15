@@ -1,0 +1,1570 @@
+fileFormatVersion: 2
+guid: 30764ac06b040ed44b409f7d50e417f0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ristiA
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 613
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6008f258ae2f46409dc7ca1ec75f412
+      internalID: -3993535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: risti2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 613
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898bef6fa4b6fd4429291751c5cdaf92
+      internalID: 204016548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: risti3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 613
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ec0b3ad07ff3345aef4d3dda2b11cc
+      internalID: -1800179815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: risti4
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 610.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dd1ae8f95e5db4dafb41cd04ac5635
+      internalID: 1884706360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: risti5
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 613
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7512bc4574b26fc4993d4a5eeef6011f
+      internalID: -194053745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: risti6
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 613
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09baa2b69ceab84e8b9633aedad99dd
+      internalID: 2015844674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: risti7
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 613
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c594ff7b01406b748abc40b7371e29f5
+      internalID: -1538897497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: risti8
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 613
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5940f6313ce79a742b73fe2a90097456
+      internalID: 2041893425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: risti9
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 610.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e3eb30879b8ec479991c35df4103ed
+      internalID: -1623098878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: risti10
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 613
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5190f5ede1c4e649b8f1b7758a6d287
+      internalID: 1025520027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ristiJ
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 610.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f705a64d47567041b571f4b42490542
+      internalID: -140159593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ristiQ
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 610.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7b8460b2cd5fc4b9bb63fbe28ffa2e
+      internalID: -921890275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ristiK
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 613
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac82bb0dc205d244592acf963bc7a32b
+      internalID: 1202690324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruutuA
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 458.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1653961495d1a9c40b52f2c256355b39
+      internalID: 2086103393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruutu2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 458.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ae2c8fcf0285d44b69982d7d3c4689
+      internalID: 1631302870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruutu3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 458.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43cb720a5d50454ba2d6c9cf3ac8eea
+      internalID: -676579479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruutu4
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 458.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfbd10ea814bc34cbcebe5a5719a939
+      internalID: -497103010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruutu5
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 461
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3490430bfee1c74e8653eff2136e475
+      internalID: 36122963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruutu6
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 461
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfafef2e3fbaab43b3fa5b0779ec8a7
+      internalID: 1845381752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruutu7
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 458.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a9459b3396bd64eb4a9f749d8fac0b
+      internalID: 2133175964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruutu8
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 458.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38af136ba1ab13143a5f1d0fe6713540
+      internalID: -732896612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruutu9
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 458.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bfc20fb1ff69b448d8bb9625ebe5fd
+      internalID: -1830916385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruutu10
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 458.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9fa7c40afe6294caeebee2338cd3e7
+      internalID: 1884690948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruutuJ
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 458.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf958d8d187976d449c837e36f19239e
+      internalID: 626251132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruutuQ
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 458.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ab5ab62d8c8e24891d237a37157a5b
+      internalID: 1964516355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruutuK
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 458.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47e00d2cca6889458930651652f8253
+      internalID: 497879175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: artuA
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 309
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf533ff4da0e8d4a9062d77b625d765
+      internalID: 1446523375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: artu2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 309
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66928d6c021a63c4491763f2c56e226c
+      internalID: 2143882470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: artu3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 306.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d359c1282a85e174ba660515f1376c04
+      internalID: -2088272933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: artu4
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 306.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f3837650bf8d94aa65aef1e5a3c2b7
+      internalID: -1375425849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: artu5
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 306.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cd16b7aae9e4549b83595493aa2938
+      internalID: -2011169388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: artu6
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 306.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfa59da37b094442a025bfc7016a1cb
+      internalID: 423028348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: artu7
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 309
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466fb60ebb9b2bf45985879b3ae98629
+      internalID: -2068408611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: artu8
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 309
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f1d0e2fe6993240a3f25dbeefa4462
+      internalID: 1882552014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: artu9
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 306.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbd7569b10ff1242bf3ccde9e6af088
+      internalID: 18101447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: artu10
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 309
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f555cfcc6e8d049bbf39781997bf8e
+      internalID: -1887548668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: artuJ
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 306.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2e32852b9d63b49a1f1b4a6268ecc6
+      internalID: -1117335911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: artuQ
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 306.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b8627e9b7db23409f6e0997cebce3d
+      internalID: -2019934952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: artuK
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 306.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7702b79b7b8a6f646b1908d99e813476
+      internalID: 1449956507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potiA
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 154.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213fcbee3ba6ab448a9045b4fcd5d767
+      internalID: -1493301626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poti2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 154.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8539651444699584297d2a942339384e
+      internalID: -1224997580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poti3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 157
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b2663c8857ab04696b14866e2b0c73
+      internalID: -428077523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poti4
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 157
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12bfcd4ba7c4f841b8b525c38728a9c
+      internalID: -1420166954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poti5
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 154.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0a48c0f995b5c4081370244754746b
+      internalID: -125678365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poti6
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 154.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2c1904ecc30414bbab592a6cfaffea
+      internalID: -633985685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poti7
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 154.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57347bc3a4ff0d94ca476e3995d54a6d
+      internalID: -439109522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poti8
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 154.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e80347696c7e45429b5029654e0cfc2
+      internalID: -44011266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poti9
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 154.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624735f2ca3e4684dba1061f7502501e
+      internalID: 171272044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poti10
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 157
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e449be9f50990b3459ed840758516518
+      internalID: -2144267041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potiJ
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 154.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfd62409c5acff498572e2f54e8365f
+      internalID: -1097730047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potiQ
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 154.4
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd97065809eab874da40754ad25fdfa2
+      internalID: -1211937024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potiK
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 156
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a65fe2ca07ae5b42a10254a882700d1
+      internalID: 880340423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card-deck-161536_1280_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2.399994
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29a9c2dcaae4ad47bc803400368174b
+      internalID: -868508149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card-deck-161536_1280_53
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2.399994
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35616559db218b14e92f9ccc5f6c7657
+      internalID: 68122265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: back
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 7
+        width: 98
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf224136b5bfd54f81a495a43984055
+      internalID: 662670109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card-deck-161536_1280_55
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2.399994
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b38b94c35d868246b51fbf3d5345828
+      internalID: 708138497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card-deck-161536_1280_56
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2.399994
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8621dba9ab65ae9438d104a9fb814027
+      internalID: 1999771658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card-deck-161536_1280_57
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2.399994
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478fa6ca25ad42c479bda9c8bd12f597
+      internalID: 1470915534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card-deck-161536_1280_58
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2.399994
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c07cd9cc3d816438fd59c422452c8d
+      internalID: -946186881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card-deck-161536_1280_59
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2.399994
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284d2605461c5f248814ca917bfcd71b
+      internalID: -947867359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card-deck-161536_1280_60
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2.399994
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d68f0a0da86a1499ab342f7c9e8274
+      internalID: 739514864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card-deck-161536_1280_61
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 2.399994
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc30ce10586fbb54eb419aead5a26e5d
+      internalID: -2127867667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card-deck-161536_1280_62
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 2.399994
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f95a4c10cc64440b4525c29b3a562b
+      internalID: 346533769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card-deck-161536_1280_63
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2.399994
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f850081f7b08b48b9a1cf56c0ec20d
+      internalID: 1586498332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card-deck-161536_1280_64
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 2.399994
+        width: 98.23077
+        height: 152.6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d55f4bef95263409618237a497ac42
+      internalID: -1318603145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      artu10: -1887548668
+      artu2: 2143882470
+      artu3: -2088272933
+      artu4: -1375425849
+      artu5: -2011169388
+      artu6: 423028348
+      artu7: -2068408611
+      artu8: 1882552014
+      artu9: 18101447
+      artuA: 1446523375
+      artuJ: -1117335911
+      artuK: 1449956507
+      artuQ: -2019934952
+      back: 662670109
+      card-deck-161536_1280_52: -868508149
+      card-deck-161536_1280_53: 68122265
+      card-deck-161536_1280_55: 708138497
+      card-deck-161536_1280_56: 1999771658
+      card-deck-161536_1280_57: 1470915534
+      card-deck-161536_1280_58: -946186881
+      card-deck-161536_1280_59: -947867359
+      card-deck-161536_1280_60: 739514864
+      card-deck-161536_1280_61: -2127867667
+      card-deck-161536_1280_62: 346533769
+      card-deck-161536_1280_63: 1586498332
+      card-deck-161536_1280_64: -1318603145
+      poti10: -2144267041
+      poti2: -1224997580
+      poti3: -428077523
+      poti4: -1420166954
+      poti5: -125678365
+      poti6: -633985685
+      poti7: -439109522
+      poti8: -44011266
+      poti9: 171272044
+      potiA: -1493301626
+      potiJ: -1097730047
+      potiK: 880340423
+      potiQ: -1211937024
+      risti10: 1025520027
+      risti2: 204016548
+      risti3: -1800179815
+      risti4: 1884706360
+      risti5: -194053745
+      risti6: 2015844674
+      risti7: -1538897497
+      risti8: 2041893425
+      risti9: -1623098878
+      ristiA: -3993535
+      ristiJ: -140159593
+      ristiK: 1202690324
+      ristiQ: -921890275
+      ruutu10: 1884690948
+      ruutu2: 1631302870
+      ruutu3: -676579479
+      ruutu4: -497103010
+      ruutu5: 36122963
+      ruutu6: 1845381752
+      ruutu7: 2133175964
+      ruutu8: -732896612
+      ruutu9: -1830916385
+      ruutuA: 2086103393
+      ruutuJ: 626251132
+      ruutuK: 497879175
+      ruutuQ: 1964516355
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
