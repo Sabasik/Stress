@@ -7,24 +7,36 @@ public class PlayerStack : MonoBehaviour
 {
     public Card current;
     public Card empty;
+    public bool canBePlaced;
+    public Game game;
     
     void Start()
     {
         addEmpty();
     }
 
-    void Update()
-    {
-    }
-
     public void addEmpty() {
-        changeCurrent(empty);
+        changeCurrent(empty, true);
     }
 
     // when a card is removed from here then empty should be added back
 
-    public void changeCurrent(Card newCard) {
+    private void changeCurrent(Card newCard, bool isEmpty) {
         current = newCard;
         gameObject.GetComponent<Image>().sprite = current.GetComponent<SpriteRenderer>().sprite;
+        canBePlaced = isEmpty;
+    }
+
+    public void changeCurrent(Card newCard) {
+        changeCurrent(newCard, false);
+    }
+
+    public void placeCardToMiddle() {
+        if (canBePlaced) return;
+        Stack stack = game.getActiveStack();
+
+        if (stack.placeIfPossible(current)) {
+            addEmpty();
+        }
     }
 }
