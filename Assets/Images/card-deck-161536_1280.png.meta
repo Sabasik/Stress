@@ -924,10 +924,10 @@ TextureImporter:
       name: artuK
       rect:
         serializedVersion: 2
-        x: 1179
-        y: 307.2
-        width: 98.23077
-        height: 152.8
+        x: 1182
+        y: 307
+        width: 98
+        height: 153
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

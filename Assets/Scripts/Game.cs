@@ -9,10 +9,16 @@ public class Game : MonoBehaviour
     public Deck computer;
     public Stack left;
     public Stack right;
+    private int activeStack;
+    public UIOutline rightGlow;
+    public UIOutline leftGlow;
 
 
     void Start()
     {
+        activeStack = 0;
+        rightGlow.enabled = false;
+
         Shuffle(cards);
 
         var firstList = new List<Card>();
@@ -29,7 +35,9 @@ public class Game : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (Input.GetKeyDown(KeyCode.Tab)) {
+            changeActiveStack();
+        }
     }
 
     public static void Shuffle(List<Card> ts) {
@@ -43,7 +51,19 @@ public class Game : MonoBehaviour
         }
     }
 
+    private void changeActiveStack() {
+        if (activeStack == 0) {
+            activeStack = 1;
+            rightGlow.enabled = true;
+            leftGlow.enabled = false;
+        } else {
+            activeStack = 0;
+            rightGlow.enabled = false;
+            leftGlow.enabled = true;
+        }
+    }
+
     public Stack getActiveStack() {
-        return left;
+        return activeStack == 0 ? left : right;
     }
 }
