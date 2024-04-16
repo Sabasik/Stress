@@ -53,6 +53,10 @@ public class Game : MonoBehaviour
             changeActiveStack();
         }
         if (noPossibleMoves()) {
+            if (checkWin()) {
+                Debug.Log("Game over");
+                Application.Quit();
+            }
             makeButtonVisible(addNewCardsButton, addNewCardsText, "Add new cards");
         }
 
@@ -68,7 +72,7 @@ public class Game : MonoBehaviour
             if (canCheckStress) {
                 canCheckStress = false;
                 makeButtonVisible(stressButton, stressText, "STRESS");
-                timeLeft = Random.Range(1f, 5.0f);
+                timeLeft = Random.Range(0.1f, 3.0f);
                 isCountDown = true;
             }
         } else {
@@ -82,6 +86,35 @@ public class Game : MonoBehaviour
         Card leftCard = left.current;
         Card rightCard = right.current;
         return leftCard.value == rightCard.value;
+    }
+
+    private bool checkWin() {
+        var playerCardCount = player.cards.Count;
+        var computerCardCount = computer.cards.Count;
+        // check if they have cards in front of them
+        var playerStackCardCount = player.stackCardsCount();
+        var computerStackCardCount = computer.stackCardsCount();
+
+        // both have cards to play more
+        if (playerCardCount > 0 && computerCardCount > 0) return false;
+        if (playerCardCount > 1 || computerCardCount > 1) return false;
+
+        // not enough cards, one wins or draw
+        if (playerCardCount == 0 && playerStackCardCount == 0 && computerCardCount == 0 && computerStackCardCount == 0) {
+            Debug.Log("Draw");
+            return true;
+        }
+        if (playerCardCount == 0 && playerStackCardCount == 0) {
+            Debug.Log("Player wins");
+            return true;
+        }
+        if (computerCardCount == 0 && computerStackCardCount == 0) {
+            Debug.Log("Computer wins");
+            return true;
+        }
+        
+        Debug.Log("Draw");
+        return true;
     }
 
     public void newCardsToTheMiddle() {
@@ -171,6 +204,19 @@ public class Game : MonoBehaviour
         List<Card> usedCards = getUsedCards();
         Shuffle(usedCards);
         whoGetsCards.addCards(usedCards);
+
+        // check if win
+        Deck presser = (whoGetsCards == player ? computer : player);
+        Debug.Log(whoGetsCards);
+        Debug.Log(presser);
+        var cardCount = presser.cards.Count;
+        var stackCardCount = presser.stackCardsCount();
+        Debug.Log(cardCount);
+        Debug.Log(stackCardCount);        
+        if (cardCount == 0 && stackCardCount == 0) {
+            Debug.Log("Game over");
+            Application.Quit();
+        }
 
         newCardsToTheMiddle();
         canCheckStress = true;

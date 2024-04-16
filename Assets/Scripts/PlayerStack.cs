@@ -39,4 +39,14 @@ public class PlayerStack : MonoBehaviour
             addEmpty();
         }
     }
+
+    public bool placeCardToMiddle(Stack stack) {
+        if (canBePlaced) return false;
+
+        if (stack.placeIfPossible(current)) {
+            addEmpty();
+            return true;
+        }
+        return false;
+    }
 }

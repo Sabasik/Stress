@@ -41,9 +41,15 @@ public class Deck : MonoBehaviour
         }
     }
 
+    public int stackCardsCount() {
+        var c = 0;
+        for (var i = 0; i < playerStacks.Count; i++) if (!playerStacks[i].canBePlaced) c++;
+        return c;
+    }
+
     public bool canPlaceCard(Stack left, Stack right) {
         for (var i = 0; i < playerStacks.Count; i++) {
-            // can put card in fron of person
+            // can put card in front of person
             if (playerStacks[i].canBePlaced && cards.Count > 0) return true;
             // no card in this slot and cannot add
             if (playerStacks[i].canBePlaced) continue;
