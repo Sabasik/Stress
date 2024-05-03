@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class Game : MonoBehaviour
 {
@@ -55,7 +56,7 @@ public class Game : MonoBehaviour
         if (noPossibleMoves()) {
             if (checkWin()) {
                 Debug.Log("Game over");
-                Application.Quit();
+                SceneManager.LoadScene("Menu");
             }
             makeButtonVisible(addNewCardsButton, addNewCardsText, "Add new cards");
         }
@@ -72,7 +73,7 @@ public class Game : MonoBehaviour
             if (canCheckStress) {
                 canCheckStress = false;
                 makeButtonVisible(stressButton, stressText, "STRESS");
-                timeLeft = Random.Range(0.1f, 3.0f);
+                timeLeft = Random.Range(1 / Menu.info.getSpeed() * 0.4f, 1 / Menu.info.getSpeed() * 3f);
                 isCountDown = true;
             }
         } else {
@@ -102,18 +103,22 @@ public class Game : MonoBehaviour
         // not enough cards, one wins or draw
         if (playerCardCount == 0 && playerStackCardCount == 0 && computerCardCount == 0 && computerStackCardCount == 0) {
             Debug.Log("Draw");
+            Menu.info.setText("DRAW");
             return true;
         }
         if (playerCardCount == 0 && playerStackCardCount == 0) {
             Debug.Log("Player wins");
+            Menu.info.setText("PLAYER WON");
             return true;
         }
         if (computerCardCount == 0 && computerStackCardCount == 0) {
             Debug.Log("Computer wins");
+            Menu.info.setText("COMPUTER WON");
             return true;
         }
         
         Debug.Log("Draw");
+        Menu.info.setText("DRAW");
         return true;
     }
 
@@ -137,13 +142,19 @@ public class Game : MonoBehaviour
         // not enough cards, one wins or draw
         else if (playerCardCount > 0) {
             Debug.Log("Computer wins");
+            Menu.info.setText("COMPUTER WON");
+            SceneManager.LoadScene("Menu");
         }
         else if (computerCardCount > 0) {
             Debug.Log("Player wins");
+            Menu.info.setText("PLAYER WON");
+            SceneManager.LoadScene("Menu");
         }
         else {
             // check if they have cards in front of them
             Debug.Log("Draw or someone won");
+            checkWin();
+            SceneManager.LoadScene("Menu");
         }
 
         makeButtonHidden(addNewCardsButton, addNewCardsText);
@@ -215,7 +226,9 @@ public class Game : MonoBehaviour
         Debug.Log(stackCardCount);        
         if (cardCount == 0 && stackCardCount == 0) {
             Debug.Log("Game over");
-            Application.Quit();
+            if (presser == player) Menu.info.setText("PLAYER WON");
+            else Menu.info.setText("COMPUTER WON");
+            SceneManager.LoadScene("Menu");
         }
 
         newCardsToTheMiddle();

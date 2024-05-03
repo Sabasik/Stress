@@ -9,10 +9,15 @@ public class ComputerAI : MonoBehaviour
     public Stack right;
     public float speed;
     private float timeLeft;
+    private float minSpeed;
+    private float maxSpeed;
 
     void Start()
     {
+        speed = Menu.info.getSpeed();
         timeLeft = untilNextMove();
+        minSpeed = 1 / speed * 0.4f;
+        maxSpeed = 1 / speed * 4f;
     }
 
     void Update()
@@ -42,6 +47,6 @@ public class ComputerAI : MonoBehaviour
     }
 
     private float untilNextMove() {
-        return Random.Range(0.4f, 4.0f) * speed;
+        return Random.Range(minSpeed, maxSpeed);
     }
 }
