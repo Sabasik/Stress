@@ -275,4 +275,9 @@ public class Game : MonoBehaviour
 
         return usedCards;
     }
+
+    public void backToMenu() {
+        Menu.info.setText("");
+        SceneManager.LoadScene("Menu");
+    }
 }

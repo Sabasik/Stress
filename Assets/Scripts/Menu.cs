@@ -11,7 +11,13 @@ public class Menu : MonoBehaviour
     public TextMeshProUGUI lastGameText;
     public Slider slider;
 
+    private Dictionary<float, float> values = new Dictionary<float, float>();
+
     private void Awake() {
+        values.Add(0, 0.5f);
+        values.Add(1, 1f);
+        values.Add(2, 1.5f);
+        values.Add(3, 2f);
         info = new Info();
         sliderValue();
     }
@@ -21,7 +27,7 @@ public class Menu : MonoBehaviour
     }
 
     public void sliderValue() {
-        info.setSpeed(slider.value);
+        info.setSpeed(values[slider.value]);
     }
 
     public void StartGame() {
