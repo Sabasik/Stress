@@ -1,0 +1,1768 @@
+fileFormatVersion: 2
+guid: 5d7b25be2b518374497470008c6fcb9f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2123
+        width: 344
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f94f722f3040749b72e985aa144d30
+      internalID: 1234128970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_1
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2123
+        width: 346
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d156956d6db95ef4eb2d9d61e6911abd
+      internalID: -1477087913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_2
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2123
+        width: 349
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7480bf8194ca54891e2119f828d904
+      internalID: -1284996812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_3
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 2123
+        width: 363
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36547c6a3f906e94b89cee5420aac4fa
+      internalID: 1752209697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_4
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 2123
+        width: 2073
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9007ae330dd9cb4f85b8c9fd45325ed
+      internalID: 738633300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_5
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 2123
+        width: 375
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9da5739b9471ab4e8a268dbcd4d5a0b
+      internalID: 1718566691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_6
+      rect:
+        serializedVersion: 2
+        x: 4315
+        y: 2123
+        width: 346
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a06b93ecf362a4baa66ff66f51c7c0
+      internalID: 1059922904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_7
+      rect:
+        serializedVersion: 2
+        x: 4745
+        y: 2123
+        width: 376
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a73c8878980ecb46a9759589d59b9c3
+      internalID: 2142441626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_8
+      rect:
+        serializedVersion: 2
+        x: 5178
+        y: 2123
+        width: 355
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711a2ef348395c8469ee1f36c1060cf0
+      internalID: -2066259347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_9
+      rect:
+        serializedVersion: 2
+        x: 5589
+        y: 2123
+        width: 364
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887b35b2a45339344b88969285403b98
+      internalID: 671018862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1725
+        width: 321
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703e1e32262acfa43ad15dfc936998a7
+      internalID: 1746625207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_11
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1725
+        width: 326
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de08828b5b30d0d4daf832dfca6a5fc1
+      internalID: 198078721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_12
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1725
+        width: 326
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15735db4b96c00e499bfe943b2dfd2d5
+      internalID: -129090496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_13
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1725
+        width: 325
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7becc460b13e63749ae2e6fb2965ffae
+      internalID: -564640521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_14
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1725
+        width: 323
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917f1ba008b073c4494010d4e7e2ff1a
+      internalID: 1181598319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_15
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 1725
+        width: 326
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba3bc3bf957de946a988aece04b5c36
+      internalID: 291234954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_16
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 1725
+        width: 325
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce037acb094b4f4db61ccbe24d5cf07
+      internalID: 29393204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_17
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 1725
+        width: 325
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a05cf87221e434aabdd4e74b97c5d2
+      internalID: 504722337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_18
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 1725
+        width: 326
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59517c6d9a67c294b9bf79ac88801c2a
+      internalID: -1153614097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_19
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 1725
+        width: 326
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356c40b86fce24740b78f7cbb0a9deee
+      internalID: 1576197330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_20
+      rect:
+        serializedVersion: 2
+        x: 4141
+        y: 1725
+        width: 325
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8747b54427e7e4fb1fd28692dc6d93
+      internalID: -253416819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_21
+      rect:
+        serializedVersion: 2
+        x: 4554
+        y: 1725
+        width: 325
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4bd6fe3a3109040a22ca908d34ae58
+      internalID: -424923557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_22
+      rect:
+        serializedVersion: 2
+        x: 4969
+        y: 1725
+        width: 326
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd00ae049784f24ea210887f3891d6d
+      internalID: 1585134212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_23
+      rect:
+        serializedVersion: 2
+        x: 5383
+        y: 1725
+        width: 570
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437d304513af5e04081c6f906403e6eb
+      internalID: 557080987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tab
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1324
+        width: 571
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62591d3300745b84b8362be85fd93551
+      internalID: -73329524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1324
+        width: 326
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa8cd60fa1bdc04e97b1cecfb6c96fe
+      internalID: 1350677239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: w
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1328
+        width: 325
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21ea400f2a4ee94d951eea9935b26a9
+      internalID: 655445985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_27
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1324
+        width: 325
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe63ad5d0d2eff043ad8472fbb832d8c
+      internalID: -1399476257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_28
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1324
+        width: 326
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf39dc7df3cecb4698ae7bbd3d34d42
+      internalID: 1559576250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_29
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 1324
+        width: 325
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127fd399aa5705d42861574e13fc913c
+      internalID: 243581364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_30
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 1324
+        width: 325
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329d00d0915f9e44a8233251bec3b911
+      internalID: -211215817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_31
+      rect:
+        serializedVersion: 2
+        x: 3147
+        y: 1324
+        width: 324
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f24e9e587d690c4cb4787df087023d8
+      internalID: -1966686774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_32
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 1324
+        width: 326
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdf6178c4567a54bb7c9add6a4d4008
+      internalID: 47762848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_33
+      rect:
+        serializedVersion: 2
+        x: 3975
+        y: 1324
+        width: 325
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ec4ba14b018974d917eded2ff16b1c
+      internalID: -1847075561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_34
+      rect:
+        serializedVersion: 2
+        x: 4388
+        y: 1324
+        width: 325
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220fd94b4cf604549b4f0045719a9350
+      internalID: -302518588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_35
+      rect:
+        serializedVersion: 2
+        x: 4803
+        y: 1324
+        width: 326
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ae10baad595cd42b7e64208f5d3493
+      internalID: -1771011115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_36
+      rect:
+        serializedVersion: 2
+        x: 5216
+        y: 1324
+        width: 326
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f064c8450f67ebd46bea2d868630a14f
+      internalID: -2026328507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_37
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 1324
+        width: 321
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8b13523044ba044a6926d7924dbfbc
+      internalID: -1665178528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 737
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd522f8b4691e04b932349d3cf60ee7
+      internalID: -1098550358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_39
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 924
+        width: 326
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4c27d5e3ca4784e837bcbc13427ff2
+      internalID: 164359287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_40
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 924
+        width: 325
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e85c59b11d0ea44aaa2b163ad0d498b
+      internalID: -1434712007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_41
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 924
+        width: 323
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1287d0ae51b5643991d0b350f3385e
+      internalID: -1165632732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_42
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 924
+        width: 326
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4ec44ad43425444861720943005ff4
+      internalID: 523155897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_43
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 924
+        width: 325
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a455c0228a55ae24f86e6ab01914bb24
+      internalID: 2057830936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_44
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 924
+        width: 325
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2c75f9a92d1ab4fbd993c61988fb8f
+      internalID: -1479753187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_45
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 924
+        width: 326
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2a1d6135020a84f92f385da18289c4
+      internalID: -932644788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_46
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 924
+        width: 326
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08402139ec359641a4cb9bde017f33e
+      internalID: -1900546739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_47
+      rect:
+        serializedVersion: 2
+        x: 4141
+        y: 924
+        width: 325
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2554edcadb5e840a902135492e9e67
+      internalID: 189057671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_48
+      rect:
+        serializedVersion: 2
+        x: 4554
+        y: 924
+        width: 325
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa002388ac94eb4b835fd5f03edcbd2
+      internalID: -335439175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_49
+      rect:
+        serializedVersion: 2
+        x: 4969
+        y: 924
+        width: 326
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf4cbea1c2815548a84fc2b5da8c3d0
+      internalID: 521967708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_50
+      rect:
+        serializedVersion: 2
+        x: 5383
+        y: 924
+        width: 570
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af241a1a58b5f374785dd2128260cde4
+      internalID: 1416936564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 955
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eaf952b148f684b82a9bbae3930bf4
+      internalID: 563258471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_52
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 525
+        width: 326
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04769b76951b6db45873bacd0009b87f
+      internalID: -1279551168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_53
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 525
+        width: 325
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d68284c9a6760943b5a47c41265a3cd
+      internalID: 750527714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_54
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 525
+        width: 325
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6848ad0b5441e5148bd91d68a1867e18
+      internalID: 342655057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: v
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 525
+        width: 326
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85808bec13a11e4ebcf047268a01ccf
+      internalID: 1213846927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 525
+        width: 326
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b43d321b7939c418cf01712d5df000
+      internalID: 2134799161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: n
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 525
+        width: 325
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef5c1148b2c5cc478672c348ceed5cd
+      internalID: 1151885548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 525
+        width: 325
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b3e25c5cfac4e43aa7b54ff6ef3724
+      internalID: 970103054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_59
+      rect:
+        serializedVersion: 2
+        x: 3940
+        y: 525
+        width: 326
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbad7d615d3b70c46aacc0c68906a0ac
+      internalID: -1811213014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_60
+      rect:
+        serializedVersion: 2
+        x: 4356
+        y: 525
+        width: 322
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e01915128275da499558bc569cedc4b
+      internalID: -1766995090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_61
+      rect:
+        serializedVersion: 2
+        x: 4769
+        y: 525
+        width: 325
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca86efcea5d24ae498eb6f3fbbf49c1e
+      internalID: 1610931904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_62
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 525
+        width: 783
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374b5fc6fb2833a4783d40d7412d2b3e
+      internalID: -1548074857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 330
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a4c9b66a856d1409fad52d7a25532f
+      internalID: -1729107390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_64
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 339
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c4582606794f6418687605ea807363
+      internalID: -1814583554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_65
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 0
+        width: 343
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fcd1bcea96cc34a8f0fed9a77060ce
+      internalID: 1438291582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_66
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 0
+        width: 392
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e203c0ddcb959774ba7d376437e7a0a8
+      internalID: 1804542534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 0
+        width: 2046
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c564c0bea67a56b4489ad1a7f523d900
+      internalID: 1159071581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_68
+      rect:
+        serializedVersion: 2
+        x: 3841
+        y: 0
+        width: 392
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a974d034f15d420418ad46e8eea9e819
+      internalID: -2006277466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_69
+      rect:
+        serializedVersion: 2
+        x: 4328
+        y: 0
+        width: 324
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2352b2c0d5da348888074dd74afe51
+      internalID: -1313473149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_70
+      rect:
+        serializedVersion: 2
+        x: 5164
+        y: 217
+        width: 381
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd203d92978cda40a3456df4e799477
+      internalID: -1393752862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_71
+      rect:
+        serializedVersion: 2
+        x: 5577
+        y: 0
+        width: 376
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dfdde0439050c48a5df9122b7d920c
+      internalID: 280125132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_72
+      rect:
+        serializedVersion: 2
+        x: 4754
+        y: 0
+        width: 381
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7511dede5dd7a764e877f64981cebbdd
+      internalID: 2048363920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_laptop-device-clipart-design-illustration_9383884_73
+      rect:
+        serializedVersion: 2
+        x: 5164
+        y: 0
+        width: 381
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b7036108d57af44b4829c32507bf5b
+      internalID: 884208257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      b: 2134799161
+      m: 970103054
+      n: 1151885548
+      q: 1350677239
+      space: 1159071581
+      tab: -73329524
+      v: 1213846927
+      vecteezy_laptop-device-clipart-design-illustration_9383884_0: 1234128970
+      vecteezy_laptop-device-clipart-design-illustration_9383884_1: -1477087913
+      vecteezy_laptop-device-clipart-design-illustration_9383884_10: 1746625207
+      vecteezy_laptop-device-clipart-design-illustration_9383884_11: 198078721
+      vecteezy_laptop-device-clipart-design-illustration_9383884_12: -129090496
+      vecteezy_laptop-device-clipart-design-illustration_9383884_13: -564640521
+      vecteezy_laptop-device-clipart-design-illustration_9383884_14: 1181598319
+      vecteezy_laptop-device-clipart-design-illustration_9383884_15: 291234954
+      vecteezy_laptop-device-clipart-design-illustration_9383884_16: 29393204
+      vecteezy_laptop-device-clipart-design-illustration_9383884_17: 504722337
+      vecteezy_laptop-device-clipart-design-illustration_9383884_18: -1153614097
+      vecteezy_laptop-device-clipart-design-illustration_9383884_19: 1576197330
+      vecteezy_laptop-device-clipart-design-illustration_9383884_2: -1284996812
+      vecteezy_laptop-device-clipart-design-illustration_9383884_20: -253416819
+      vecteezy_laptop-device-clipart-design-illustration_9383884_21: -424923557
+      vecteezy_laptop-device-clipart-design-illustration_9383884_22: 1585134212
+      vecteezy_laptop-device-clipart-design-illustration_9383884_23: 557080987
+      vecteezy_laptop-device-clipart-design-illustration_9383884_27: -1399476257
+      vecteezy_laptop-device-clipart-design-illustration_9383884_28: 1559576250
+      vecteezy_laptop-device-clipart-design-illustration_9383884_29: 243581364
+      vecteezy_laptop-device-clipart-design-illustration_9383884_3: 1752209697
+      vecteezy_laptop-device-clipart-design-illustration_9383884_30: -211215817
+      vecteezy_laptop-device-clipart-design-illustration_9383884_31: -1966686774
+      vecteezy_laptop-device-clipart-design-illustration_9383884_32: 47762848
+      vecteezy_laptop-device-clipart-design-illustration_9383884_33: -1847075561
+      vecteezy_laptop-device-clipart-design-illustration_9383884_34: -302518588
+      vecteezy_laptop-device-clipart-design-illustration_9383884_35: -1771011115
+      vecteezy_laptop-device-clipart-design-illustration_9383884_36: -2026328507
+      vecteezy_laptop-device-clipart-design-illustration_9383884_37: -1665178528
+      vecteezy_laptop-device-clipart-design-illustration_9383884_38: -1098550358
+      vecteezy_laptop-device-clipart-design-illustration_9383884_39: 164359287
+      vecteezy_laptop-device-clipart-design-illustration_9383884_4: 738633300
+      vecteezy_laptop-device-clipart-design-illustration_9383884_40: -1434712007
+      vecteezy_laptop-device-clipart-design-illustration_9383884_41: -1165632732
+      vecteezy_laptop-device-clipart-design-illustration_9383884_42: 523155897
+      vecteezy_laptop-device-clipart-design-illustration_9383884_43: 2057830936
+      vecteezy_laptop-device-clipart-design-illustration_9383884_44: -1479753187
+      vecteezy_laptop-device-clipart-design-illustration_9383884_45: -932644788
+      vecteezy_laptop-device-clipart-design-illustration_9383884_46: -1900546739
+      vecteezy_laptop-device-clipart-design-illustration_9383884_47: 189057671
+      vecteezy_laptop-device-clipart-design-illustration_9383884_48: -335439175
+      vecteezy_laptop-device-clipart-design-illustration_9383884_49: 521967708
+      vecteezy_laptop-device-clipart-design-illustration_9383884_5: 1718566691
+      vecteezy_laptop-device-clipart-design-illustration_9383884_50: 1416936564
+      vecteezy_laptop-device-clipart-design-illustration_9383884_51: 563258471
+      vecteezy_laptop-device-clipart-design-illustration_9383884_52: -1279551168
+      vecteezy_laptop-device-clipart-design-illustration_9383884_53: 750527714
+      vecteezy_laptop-device-clipart-design-illustration_9383884_54: 342655057
+      vecteezy_laptop-device-clipart-design-illustration_9383884_59: -1811213014
+      vecteezy_laptop-device-clipart-design-illustration_9383884_6: 1059922904
+      vecteezy_laptop-device-clipart-design-illustration_9383884_60: -1766995090
+      vecteezy_laptop-device-clipart-design-illustration_9383884_61: 1610931904
+      vecteezy_laptop-device-clipart-design-illustration_9383884_62: -1548074857
+      vecteezy_laptop-device-clipart-design-illustration_9383884_63: -1729107390
+      vecteezy_laptop-device-clipart-design-illustration_9383884_64: -1814583554
+      vecteezy_laptop-device-clipart-design-illustration_9383884_65: 1438291582
+      vecteezy_laptop-device-clipart-design-illustration_9383884_66: 1804542534
+      vecteezy_laptop-device-clipart-design-illustration_9383884_68: -2006277466
+      vecteezy_laptop-device-clipart-design-illustration_9383884_69: -1313473149
+      vecteezy_laptop-device-clipart-design-illustration_9383884_7: 2142441626
+      vecteezy_laptop-device-clipart-design-illustration_9383884_70: -1393752862
+      vecteezy_laptop-device-clipart-design-illustration_9383884_71: 280125132
+      vecteezy_laptop-device-clipart-design-illustration_9383884_72: 2048363920
+      vecteezy_laptop-device-clipart-design-illustration_9383884_73: 884208257
+      vecteezy_laptop-device-clipart-design-illustration_9383884_8: -2066259347
+      vecteezy_laptop-device-clipart-design-illustration_9383884_9: 671018862
+      w: 655445985
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

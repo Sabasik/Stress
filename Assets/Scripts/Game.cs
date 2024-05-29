@@ -53,15 +53,40 @@ public class Game : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Tab)) {
             changeActiveStack();
         }
+        if (Input.GetKeyDown(KeyCode.V)) {
+            player.playerStacks[0].placeCardToMiddle();
+        }
+        if (Input.GetKeyDown(KeyCode.B)) {
+            player.playerStacks[1].placeCardToMiddle();
+        }
+        if (Input.GetKeyDown(KeyCode.N)) {
+            player.playerStacks[2].placeCardToMiddle();
+        }
+        if (Input.GetKeyDown(KeyCode.M)) {
+            player.playerStacks[3].placeCardToMiddle();
+        }
+        if (Input.GetKeyDown(KeyCode.W)) {
+            player.placeNewCard();
+        }
+
+
+
         if (noPossibleMoves()) {
             if (checkWin()) {
                 Debug.Log("Game over");
                 SceneManager.LoadScene("Menu");
             }
             makeButtonVisible(addNewCardsButton, addNewCardsText, "Add new cards");
+            
+            if (Input.GetKeyDown(KeyCode.Q)) {
+                newCardsToTheMiddle();
+            }
         }
 
         if (isCountDown) {
+            if (Input.GetKeyDown(KeyCode.Space)) {
+                doStress(computer);
+            }
             timeLeft -= Time.deltaTime;
             if (timeLeft < 0) {
                 isCountDown = false;
